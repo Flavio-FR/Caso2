@@ -1,0 +1,25 @@
+.usb {
+    width: 100px;
+    height: 30px;
+    background-color: #ddd;
+    position: relative;
+  }
+  
+  .cuerpo {
+    width: 80px;
+    height: 20px;
+    background-color: #aaa;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    border-radius: 5px;
+  }
+  
+  .conector {
+    width: 20px;
+    height: 10px;
+    background-color: #888;
+    position: absolute;
+    bottom: 5px;
+    left: 40px;
+  }
