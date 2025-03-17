@@ -18,10 +18,7 @@ Este es un proyecto de desarrollo web que presenta una página con diseño respo
    ```bash
     https://github.com/Flavio-FR/Caso2
    ```
-3. Si usas un servidor local, inicia el servidor:
-   ```bash
 
-   ```
 
 ## Uso
 1. Abre el archivo `index.html` en tu navegador.
