@@ -1,4 +1,4 @@
-# Proyecto: Mi Página Web
+# Proyecto:  Página Web
 
 ## Descripción
 Este es un proyecto de desarrollo web que presenta una página con diseño responsivo y funcionalidades interactivas.
