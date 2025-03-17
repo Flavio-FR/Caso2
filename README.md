@@ -1,39 +1,21 @@
-Página Web
-
+Proyecto: Mi Página Web
 Descripción
-
-Este proyecto es una página web diseñada para proporcionar información y funcionalidades específicas a los usuarios. La aplicación cuenta con una interfaz amigable y adaptable a diferentes dispositivos.
-
-Características
-
-Diseño moderno y responsive.
-
-Navegación intuitiva.
-
-Secciones organizadas de manera clara y accesible.
+Este es un proyecto de desarrollo web que presenta una página con diseño responsivo y funcionalidades interactivas.
 
 Tecnologías Utilizadas
-
-HTML para la estructura de la página.
-
-CSS para los estilos y el diseño visual.
-
-JavaScript para la interactividad y funcionalidades dinámicas.
-
+HTML
+CSS
+JavaScript
+[Framework/Librería] (si aplica)
 Instalación
-
 Clona este repositorio:
-
-git clone https://github.com/Flavio-FR/Caso2
-
-Accede al directorio del proyecto:
-
-cd pagina-web
-
-Abre el archivo index.html en tu navegador.
+git clone https://github.com/Flavio-FR/mi-pagina-web.git
+Entra en el directorio del proyecto:
+ https://github.com/Flavio-FR/Caso2
+Si usas un servidor local, inicia el servidor:
 
 Uso
-
-Navega a través de las secciones de la página para acceder a la información.
-
-Interactúa con los elementos interactivos para una mejor experiencia de usuario.
+Abre el archivo index.html en tu navegador.
+Explora las diferentes secciones y funcionalidades.
+Autor
+Flavio
